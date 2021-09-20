@@ -9,3 +9,4 @@ Git Commands
 -> git status => to check the status
 -> git log => to check previous history 
 -> git push -m origin master
+-> git pull => updates the changes or updated files to your local folder
