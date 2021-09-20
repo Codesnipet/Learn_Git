@@ -9,3 +9,4 @@ Git Commands
 -> git status => to check the status
 -> git log => to check previous history 
 -> git push -m origin master
+-> git pull => to check and upgrade to latest files.
